@@ -1,0 +1,15 @@
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment2-11034645\bin\Debug\net6.0\AnimalSounds.exe
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment2-11034645\bin\Debug\net6.0\AnimalSounds.deps.json
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment2-11034645\bin\Debug\net6.0\AnimalSounds.runtimeconfig.json
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment2-11034645\bin\Debug\net6.0\AnimalSounds.dll
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment2-11034645\bin\Debug\net6.0\AnimalSounds.pdb
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment2-11034645\obj\Debug\net6.0\AnimalSounds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment2-11034645\obj\Debug\net6.0\AnimalSounds.AssemblyInfoInputs.cache
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment2-11034645\obj\Debug\net6.0\AnimalSounds.AssemblyInfo.cs
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment2-11034645\obj\Debug\net6.0\AnimalSounds.csproj.CoreCompileInputs.cache
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment2-11034645\obj\Debug\net6.0\AnimalSounds.sourcelink.json
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment2-11034645\obj\Debug\net6.0\AnimalSounds.dll
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment2-11034645\obj\Debug\net6.0\refint\AnimalSounds.dll
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment2-11034645\obj\Debug\net6.0\AnimalSounds.pdb
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment2-11034645\obj\Debug\net6.0\AnimalSounds.genruntimeconfig.cache
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment2-11034645\obj\Debug\net6.0\ref\AnimalSounds.dll
